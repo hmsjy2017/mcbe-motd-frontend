@@ -151,7 +151,7 @@ export default {
     iframe: null,
     height: '195px',
     width: '500px',
-    link: '/iframe.html?ip=play.easecation.net&port=19132',
+    link: '/iframe.html?ip=play.ltya.top&port=19132',
     dark: false,
     snackbar: false,
     text: '复制成功',
@@ -176,7 +176,7 @@ export default {
     let port = router.currentRoute.query.port;
     if (ip === undefined || port === undefined || ip === null || port === null) {
       // 此处是默认显示的服务器状态信息
-      this.input.ip = 'play.easecation.net';
+      this.input.ip = 'play.ltya.top';
       this.input.port = 19132;
     } else {
       this.input.ip = ip;
