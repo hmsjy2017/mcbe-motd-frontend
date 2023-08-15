@@ -23,7 +23,7 @@
               <v-icon v-else>mdi-weather-sunny</v-icon>
             </v-btn>
           </v-fab-transition>
-          本项目由 BlackBE 云黑团队开发维护，BlakcBE云黑平台致力于维护服务器游戏平衡。
+          本服务由 <a href="https://blog.iamsjy.com/">Tony</a> 运营。感谢 BlackBE 云黑团队的源码。
           <br>
           <v-btn
               class="mx-4"
