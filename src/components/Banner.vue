@@ -18,7 +18,7 @@
               <div class="banner-title font-weight-black white--text">
                 MCBE MOTD
               </div>
-              <p class="pt-5 white--text subtitle-2">我的世界基岩版服务器实时状态，随时随地查看你的服务器信息，提供众多展示接口并开放全部源代码。</p>
+              <p class="pt-5 white--text subtitle-2">我的世界基岩版服务器实时状态，随时随地查看你的服务器信息，提供众多展示接口并开放全部源代码。本服务支持 IPv6 网络。</p>
               <div class="text-center">
                 <gh-btns-star show-count
                               slug="BlackBEDevelopment/Minecraft-BedrockEdition-Server-Motd"></gh-btns-star>
